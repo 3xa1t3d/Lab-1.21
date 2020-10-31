@@ -1,0 +1,4 @@
+﻿  21.1.c
+C:\Users\filim\Desktop\LabsGit\lab1.21\lab1.21\21.1.c(12,1): warning C4244: инициализация: преобразование "size_t" в "float", возможна потеря данных
+  LINK : не найден или не выполнена сборка C:\Users\filim\Desktop\LabsGit\lab1.21\Debug\lab1.21.exe при последней инкрементной компоновке; выполняется полная компоновка
+  lab1.21.vcxproj -> C:\Users\filim\Desktop\LabsGit\lab1.21\Debug\lab1.21.exe
